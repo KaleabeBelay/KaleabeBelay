@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there! 👋 I'm Kaleabe Belay
 
-<!--
-**KaleabeBelay/KaleabeBelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Computer Science student at Kennesaw State University  
+📊 Aspiring Data Analyst / Data Engineer  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about turning data into insights and building real-world projects  
+- Experienced with Python, Java, SQL, and data analysis tools  
+- Currently improving my skills in data analytics, visualization, and machine learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- 📧 Email: caleb.belay@example.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/caleb-belay  
+- 🤝 Handshake: https://www.joinhandshake.com/u/caleb-belay  
+
+## ⚡ Fun Fact
+I enjoy producing content online and breaking down complex topics into simple ideas.
