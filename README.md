@@ -17,4 +17,4 @@
 - 🤝 Handshake: https://kennesaw.joinhandshake.com/profiles/kaleabebelay
   
 ## ⚡ Fun Fact
-I enjoy producing content online and breaking down complex topics into simple ideas.
+I enjoy going to the gym and love listening to podcasts.
