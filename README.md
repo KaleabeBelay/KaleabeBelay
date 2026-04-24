@@ -13,7 +13,7 @@
 
 ## 📫 Connect With Me
 - 📧 Email: kaleabebelay444@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/kaleabe-belay-54a7212b0/
+- 💼 LinkedIn: https://www.linkedin.com/in/kaleabe-belay/
 - 🤝 Handshake: https://kennesaw.joinhandshake.com/profiles/kaleabebelay
   
 ## ⚡ Fun Fact
