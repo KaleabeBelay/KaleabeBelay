@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Kaleabe Belay
 
-🎓 Junior Computer Science student at Kennesaw State University  
+🎓 Senior Computer Science student at Kennesaw State University  
 📊 Aspiring Data Analyst / Data Scientist / Data Engineer  
 
 ## 🚀 About Me
